@@ -20,7 +20,7 @@
 			</div>
 			<div class="text-blue text-12 mt-6 tablet-lg:mt-0">
 				<a href="https://www.litium.se" rel="noopener" target="_blank">
-					<img class="w-24" alt="Litium Partner" src="/litium2020-Logo-RGB_Black.png" />
+					<img class="w-24" alt="Litium Partner" src="/Litium2020-Logo-RGB_Black.png" />
 				</a>
 			</div>
 			<div class="text-blue text-12 mt-6 tablet-lg:mt-0">
