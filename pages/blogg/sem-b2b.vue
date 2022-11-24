@@ -4,12 +4,10 @@
 		<blog-post-body>
 			<template v-slot:author> Johan Åström </template>
 			<template v-slot:date> 19 Juni 2020 </template>
-			<template v-slot:title>
-				Sökmotormarknadsföring för B2B med 6 tips för bättre annonsering
-			</template>
+			<template v-slot:title> Sökmotormarknadsföring för B2B med 6 tips för bättre annonsering </template>
 			<template v-slot:body>
 				<div class="tablet:w-1/2 float-right">
-					<img class="ml-4 mb-8" src="/blogg/Johan Åström2.png" />
+					<img class="ml-4 mb-8" src="/blogg/JohanÅström2.png" />
 				</div>
 				<p>
 					Marknadsavdelningens ständiga utmaning är att investera budgeten där den får bäst effekt. Sökmotorannonsering är en av de kanaler som ger
@@ -32,7 +30,7 @@
 					börjar med att använda sig av sökmotorer inför ett köp.
 				</p>
 				<div class="tablet:w-3/4 mb-4">
-					<img src="/blogg/google ads.png" />
+					<img src="/blogg/google-ads.png" />
 				</div>
 				<p>
 					<i
@@ -101,9 +99,7 @@
 
 				<h3>6 sätt att förbättra din annonsering på Google</h3>
 
-				<p>
-					En del jobbar redan med Google Ads men är missnöjda med prestationen. Ofta beror det på något av följande:
-				</p>
+				<p>En del jobbar redan med Google Ads men är missnöjda med prestationen. Ofta beror det på något av följande:</p>
 
 				<ol>
 					<li>
@@ -145,9 +141,7 @@
 					</li>
 				</ul>
 
-				<p>
-					Slutligen önskar jag dig lycka till med din marknadsföring, tveka inte att höra av dig ifall du är nyfiken på mer.
-				</p>
+				<p>Slutligen önskar jag dig lycka till med din marknadsföring, tveka inte att höra av dig ifall du är nyfiken på mer.</p>
 
 				<p>Johan Åström, SearchIntent</p>
 			</template>

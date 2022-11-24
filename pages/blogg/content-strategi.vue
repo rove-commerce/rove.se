@@ -7,7 +7,7 @@
 			<template v-slot:title>Få fler leads med en effektiv Content-strategi</template>
 			<template v-slot:body>
 				<div class="tablet:w-1/2 float-right">
-					<img class="ml-4 mb-8" alt="Får ni ut för lite av er Conetent Marketing?" src="/blogg/content Strategi cover.png" />
+					<img class="ml-4 mb-8" alt="Får ni ut för lite av er Conetent Marketing?" src="/blogg/ContentStrategiCover.png" />
 				</div>
 				<p class="preamble">Får ni ut för lite av er Content Marketing?</p>
 				<p>
@@ -44,17 +44,13 @@
 					påträngande och avbrytande.
 				</p>
 				<h3>Vad är en Content-Strategi?</h3>
-				<div class="mb-2 text-18">
-					En Content-Strategi beskriver:
-				</div>
+				<div class="mb-2 text-18">En Content-Strategi beskriver:</div>
 				<ol>
 					<li>vad man vill prata om,</li>
 					<li>till vem och</li>
 					<li>i vilken fas i kundresan.</li>
 				</ol>
-				<div class="mb-2 text-18">
-					Syftet är att:
-				</div>
+				<div class="mb-2 text-18">Syftet är att:</div>
 				<ul>
 					<li>
 						identifiera vilket <strong>innehåll som skapar värde</strong> för kunden i olika delar av kundresan (och som för kunden framåt i
@@ -90,44 +86,26 @@
 							<th class="p-2 border text-left">Beskrivning</th>
 						</tr>
 						<tr class="border">
-							<td class="p-2 border">
-								Awareness
-							</td>
-							<td class="p-2 border">
-								Kunden förstår att de har en möjlighet, behov eller utmaning.
-							</td>
+							<td class="p-2 border">Awareness</td>
+							<td class="p-2 border">Kunden förstår att de har en möjlighet, behov eller utmaning.</td>
 						</tr>
 						<tr class="border">
-							<td class="p-2 border">
-								Consideration
-							</td>
-							<td class="p-2 border">
-								Kunden definierar sin utmaning, efterforskar och jämför de olika lösningarna.
-							</td>
+							<td class="p-2 border">Consideration</td>
+							<td class="p-2 border">Kunden definierar sin utmaning, efterforskar och jämför de olika lösningarna.</td>
 						</tr>
 						<tr class="border">
-							<td class="p-2 border">
-								Decision
-							</td>
-							<td class="p-2 border">
-								Kunden är redo att köpa och väljer en lösning, köpbeslut!
-							</td>
+							<td class="p-2 border">Decision</td>
+							<td class="p-2 border">Kunden är redo att köpa och väljer en lösning, köpbeslut!</td>
 						</tr>
 						<tr class="border">
-							<td class="p-2 border">
-								Loyalty
-							</td>
+							<td class="p-2 border">Loyalty</td>
 							<td class="p-2 border">
 								Upplevelsen efter kundens köp. Fokus på att göra kunden till en återkommande kund, service, kundtjänst, kommunikation.
 							</td>
 						</tr>
 						<tr class="border">
-							<td class="p-2 border">
-								Ambassador
-							</td>
-							<td class="p-2 border">
-								Kunden blir er ambassadör och rekommenderar er till andra.
-							</td>
+							<td class="p-2 border">Ambassador</td>
+							<td class="p-2 border">Kunden blir er ambassadör och rekommenderar er till andra.</td>
 						</tr>
 					</table>
 				</div>
@@ -141,9 +119,7 @@
 					Olika personas kommer också in på olika ställen i kundresan. Det man ska ta fasta på är att
 					<strong>det ska finnas teman för varje målgrupp/aktuell persona i varje fas av kundresan</strong>.
 				</p>
-				<div class="mb-2 text-18">
-					Så här skulle det kunna se ut för ett företag som säljer videokonferensutrustning B2B med målgrupperna:
-				</div>
+				<div class="mb-2 text-18">Så här skulle det kunna se ut för ett företag som säljer videokonferensutrustning B2B med målgrupperna:</div>
 				<ul>
 					<li>Offentlig sektor</li>
 					<li>Tech-bolag</li>
@@ -200,7 +176,7 @@
 				<h4>Loyalty</h4>
 				<p>Idé: kunden har köpt vår utrustning, nu vill vi att den ska känna sig riktigt nöjd och köpa mer.</p>
 				<p>Värde: ge kunden tips på hur man får ut det mesta av våra produkter, besvara frågor, berätta om hur andra har gjort.</p>
-				<div class="mb-2  text-18">Teman:</div>
+				<div class="mb-2 text-18">Teman:</div>
 				<ul>
 					<li>Få ut mer av produkterna (alla personas)</li>
 					<li>Vanliga frågor & svar (alla personas)</li>
@@ -217,12 +193,10 @@
 					<li>Employer branding - Våra medarbetare har en fantastiskt arbetsplats hemma (Medarbetare och CIO)</li>
 					<li>Employer branding - en toppmodern global arbetsplats (Medarbetare och CIO)</li>
 				</ul>
-				<p>
-					Voilá, där har du en enkel men kraftfull Content-strategi! Sammanfatta på en A4 per målgrupp och sätt upp på väggen. Exempel:
-				</p>
+				<p>Voilá, där har du en enkel men kraftfull Content-strategi! Sammanfatta på en A4 per målgrupp och sätt upp på väggen. Exempel:</p>
 				<p>
 					<a href="/blogg/Exempel Content-strategi.pdf" target="_blank">
-						<img class="ml-4 mb-8" alt="Exempel Content-strategi för Content Marketing" src="/blogg/Content Strategi exempel.png" />
+						<img class="ml-4 mb-8" alt="Exempel Content-strategi för Content Marketing" src="/blogg/ContentStrategiExempel.png" />
 						<p>Ladda ner exempel-sammanställningen här.</p>
 					</a>
 				</p>

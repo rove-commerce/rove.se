@@ -6,7 +6,7 @@
 			<template v-slot:title>Upphandla e-handelsprojekt</template>
 			<template v-slot:body>
 				<div class="tablet:w-1/2 float-right">
-					<img class="tablet:ml-4 mb-8" alt="Upphandla e-handelsprojekt" src="/blogg/upphandla ehandelsprojekt.jpg" />
+					<img class="tablet:ml-4 mb-8" alt="Upphandla e-handelsprojekt" src="/blogg/upphandla-ehandelsprojekt.jpg" />
 				</div>
 				<p class="preamble">
 					Det är knepigt att handla upp e-handelsprojekt. Eller snarare att få en lyckad leverans, ett väl fungerande partnerskap med leverantören och

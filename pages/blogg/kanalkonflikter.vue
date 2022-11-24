@@ -7,7 +7,7 @@
 			<template v-slot:title>Sälja direkt och kanalkonflikter</template>
 			<template v-slot:body>
 				<div class="tablet:w-1/2 float-right">
-					<img class="ml-4 mb-8" src="/blogg/André Business.jpg" />
+					<img class="ml-4 mb-8" src="/blogg/AndréBusiness.jpg" />
 				</div>
 				<p>
 					Kanalkonflikter är ett av de vanligaste skälen till att B2B-företag tvekar med att börja med e-handel. Man är orolig för hur
@@ -20,9 +20,7 @@
 					teknikföretag. André har under många år arbetat med att hjälpa Addtech-bolag till en mer digital sälj- och marknadsprocess och har lång
 					erfarenhet av utmaningar med kanalkonflikter.
 				</p>
-				<p>
-					Om vi börjar med att titta på varför man skulle vilja börja sälja direkt via e-handel och inte bara hålla sig till återförsäljarledet:
-				</p>
+				<p>Om vi börjar med att titta på varför man skulle vilja börja sälja direkt via e-handel och inte bara hålla sig till återförsäljarledet:</p>
 				<h3>1. Att köpa direkt via e-handel kan vara bättre för slutkunden</h3>
 				<p>
 					Att tvinga slutkunden att köpa via återförsäljare är inte alltid bäst för slutkunden. Kundens köpresa börjar ofta med en sökning på en
@@ -105,12 +103,8 @@
 					- Jag ser många fördelar med att sälja direkt:
 				</p>
 				<ul>
-					<li>
-						Ta hand om hela kundresan och få en närmare & bättre relation med slutkunden.
-					</li>
-					<li>
-						Kunna erbjuda en bättre kundservice och förenkla köpresan.
-					</li>
+					<li>Ta hand om hela kundresan och få en närmare & bättre relation med slutkunden.</li>
+					<li>Kunna erbjuda en bättre kundservice och förenkla köpresan.</li>
 					<li>
 						Få bättre inblick i kundens utmaningar, invändningar och vanliga frågor. Denna information kan användas för att förbättra sitt
 						erbjudande mot kunderna.
@@ -119,9 +113,7 @@
 						Minimera risken att kunden väljer en konkurrents produkt/lösning. Grossisterna arbetar ju med många leverantörers sortiment och du har
 						inte full kontroll hur de behandlar och pratar för ditt erbjudande.
 					</li>
-					<li>
-						Möjlighet till merförsäljning när kunderna ser hela ditt sortiment, om du inte säljer hela ditt erbjudande via grossistledet.
-					</li>
+					<li>Möjlighet till merförsäljning när kunderna ser hela ditt sortiment, om du inte säljer hela ditt erbjudande via grossistledet.</li>
 				</ul>
 				<p>
 					<i>- Om du får sia lite om framtiden, hur tror du det kommer se ut om 5 år, kommer man att ha kommit förbi kanalkonflikter då?</i>
