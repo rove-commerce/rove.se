@@ -3,7 +3,7 @@
 		<div class="wrapper py-24 tablet:py-32">
 			<div class="inner-wrapper">
 				<h1 class="text-white text-32 tablet:text-36 max-w-5xl leading-snug">
-					<span class="font-bold border-b-2 border-red">Rove</span> hjälper B2B-företag att bli framgångsrika i sin digitala affär genom e-handel och
+					<span class="font-bold border-b-2 border-red">Rove</span> hjälper företag att bli framgångsrika i sin digitala affär genom e-handel och
 					martech
 				</h1>
 				<div class="inline-flex mt-8 flex-col tablet:flex-row">

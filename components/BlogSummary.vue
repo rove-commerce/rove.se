@@ -18,9 +18,7 @@
 						<div class="laptop:w-1/3 py-6 laptop:px-4 py-1 border-t laptop:border-l laptop:border-t-0 border-blue">
 							<span class="block text-blue text-10 uppercase mb-2">Blogg</span>
 							<NuxtLink to="/blogg/punchout/">
-								<h3 class="text-blue text-20 leading-normal mb-4">
-									PunchOut e-handel - öppna en ny försäljningskanal till era kunder
-								</h3>
+								<h3 class="text-blue text-20 leading-normal mb-4">PunchOut e-handel - öppna en ny försäljningskanal till era kunder</h3>
 							</NuxtLink>
 							<read-link to="/blogg/punchout/"></read-link>
 						</div>
@@ -29,9 +27,7 @@
 						<div class="laptop:w-1/3 py-6 laptop:px-4 py-1 border-t laptop:border-l laptop:border-t-0 border-blue laptop:ml-4">
 							<span class="block text-blue text-10 uppercase mb-2">Blogg</span>
 							<NuxtLink to="/blogg/kanalkonflikter/"
-								><h3 class="text-blue text-20 leading-normal mb-4">
-									Sälja direkt och kanalkonflikter
-								</h3>
+								><h3 class="text-blue text-20 leading-normal mb-4">Sälja direkt och kanalkonflikter</h3>
 							</NuxtLink>
 							<read-link to="/blogg/kanalkonflikter/"></read-link>
 						</div>
@@ -40,9 +36,7 @@
 						<div class="laptop:w-1/3 py-6 laptop:px-4 py-1 border-t laptop:border-l laptop:border-t-0 border-blue laptop:ml-4">
 							<span class="block text-blue text-10 uppercase mb-2">Blogg</span>
 							<NuxtLink to="/blogg/organisation-ehandel-b2b-2/">
-								<h3 class="text-blue text-20 leading-normal mb-4">
-									Del 2 - Vilken organisation behövs för en B2B e-handel?
-								</h3>
+								<h3 class="text-blue text-20 leading-normal mb-4">Del 2 - Vilken organisation behövs för en B2B e-handel?</h3>
 							</NuxtLink>
 							<read-link to="/blogg/organisation-ehandel-b2b-2/"></read-link>
 						</div>
@@ -52,13 +46,3 @@
 		</div>
 	</div>
 </template>
-
-<script>
-	import ReadLink from "~/components/ReadLink";
-
-	export default {
-		components: {
-			ReadLink,
-		},
-	};
-</script>

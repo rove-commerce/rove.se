@@ -13,29 +13,18 @@
 	</client-only>
 </template>
 
-<script>
-	export default {
-		data: () => ({
-			cookieAccept: false,
-		}),
-		methods: {
-			setCookie() {
-				//console.log("setCookie, cookieAccept: " + this.cookieAccept);
-				this.$cookies.set("cookie-consent", true);
-				this.cookieAccept = true;
-			},
-			showCookieBar() {
-				//console.log("showCookieBar, cookieAccept: " + this.cookieAccept);
-				if (this.cookieAccept) {
-					return false;
-				}
-				//console.log("showCookieBar, cookie-consent: " + this.$cookies.get("cookie-consent"));
-				if (this.$cookies.get("cookie-consent")) {
-					this.cookieAccept = true;
-					//console.log("showCookieBar, cookie-consent = true, writing cookieAccept: " + this.cookieAccept);
-				}
-				return !this.cookieAccept;
-			},
-		},
-	};
+<script setup>
+	const cookieAccept = useCookie("cookie-consent");
+
+	function setCookie() {
+		cookieAccept.value = true;
+	}
+
+	function showCookieBar() {
+		//console.log("showCookieBar, cookieAccept: " + cookieAccept.value);
+		if (cookieAccept.value == undefined) {
+			return true;
+		}
+		return !cookieAccept.value;
+	}
 </script>
