@@ -1,19 +1,15 @@
 ---
 title: Om Rove
-description: Om Rove - rådgivning B2B e-handel, PIM, digital marknadsföring
+description: Om Rove - e-handel, PIM, MarTech, digital marknadsföring
 ---
 
 ## Rove
 
 "​a vigorous and purposeful journey without ever reaching your destination".
 
-## Vårt varför
+## Vårt varför - ständig utveckling
 
-Vårt varför är att skapa bästa möjliga kundupplevelse. Av en bra upplevelse följer ökad försäljning och lojala kunder.
-
-## Kundlöfte
-
-Att med inspiration och kunskap göra våra kunder framgångsrika genom digital handel.
+Vi tror att en av de viktigaste drivkrafterna för att trivas och må bra är att hela tiden utvecklas. Lärandet ger oss energi och leder till att vi kan skapa ett störe kundvärde.
 
 ## Så arbetar vi
 

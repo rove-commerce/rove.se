@@ -23,16 +23,10 @@
 		meta: [
 			{
 				name: "description",
-				content: "Om Rove - e-handel, PIM, MarTech, digital marknadsföring",
+				content: "Om Rove - e-handel, PIM, MarTech, digital marknadsföring ",
 			},
 		],
 	});
 
 	const { data } = await useAsyncData("om-rove", () => queryContent("/pages/om-rove").findOne());
-
-	function toggleNavigation() {
-		console.log("/om-rove/toggleNavigation pre: " + document.body.classList);
-		document.body.classList.toggle("nav-open");
-		console.log("/om-rove/toggleNavigation post: " + document.body.classList);
-	}
 </script>

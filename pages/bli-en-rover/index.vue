@@ -29,8 +29,4 @@
 	});
 
 	const { data } = await useAsyncData("bli-en-rover", () => queryContent("/pages/bli-en-rover").findOne());
-
-	function toggleNavigation() {
-		document.body.classList.toggle("nav-open");
-	}
 </script>

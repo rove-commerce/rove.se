@@ -8,7 +8,7 @@
 				</h1>
 				<div class="inline-flex mt-8 flex-col tablet:flex-row">
 					<NuxtLink to="/tjanster/" class="btn-white inline-block">Tjänster</NuxtLink>
-					<NuxtLink to="/bli-en-rover/" class="btn-outline inline-block mt-4 tablet:mt-0 tablet:ml-4">Bli en rover</NuxtLink>
+					<NuxtLink to="/bli-en-rover/" class="btn-outline inline-block mt-4 tablet:mt-0 tablet:ml-4">Bli en av oss</NuxtLink>
 				</div>
 			</div>
 		</div>

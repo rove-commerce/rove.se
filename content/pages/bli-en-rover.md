@@ -1,6 +1,6 @@
 ---
 title: Bli en Rover
-description: Karriär hos Rove - rådgivning B2B e-handel, PIM, digital marknadsföring
+description: Bli en Rover - e-handel, PIM, MarTech, digital marknadsföring
 ---
 
 ## Vill du bli en Rover?
