@@ -22,15 +22,15 @@
 				</ul>
 			</nav>
 
-			<!-- Hamburger menu icon -->
-			<div class="block laptop:hidden w-8 h-8 py-2 flex flex-col justify-between" @click="$emit('toggle-navigation')">
+			<!-- Hamburger menu icon "$emit('toggle-navigation')" -->
+			<div class="block laptop:hidden w-8 h-8 py-2 flex flex-col justify-between" @click="mobileMenuOpen = !mobileMenuOpen">
 				<div class="bg-white h-px w-full"></div>
 				<div class="bg-white h-px w-full"></div>
 				<div class="bg-white h-px w-full"></div>
 			</div>
 
 			<!-- Mobile menu -->
-			<nav class="mobile-nav overflow-y-scroll z-10">
+			<nav v-if="mobileMenuOpen" class="mobile-nav overflow-y-scroll z-10">
 				<div class="wrapper pt-10">
 					<ul class="text-white text-24 font-bold uppercase flex flex-col items-center">
 						<li>
@@ -65,3 +65,7 @@
 		@apply font-semibold;
 	}
 </style>
+
+<script setup>
+	const mobileMenuOpen = ref(false);
+</script>

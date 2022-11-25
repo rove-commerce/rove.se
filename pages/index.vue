@@ -16,6 +16,8 @@
 </template>
 
 <script setup>
+	//console.log("/ setup:" + document.body.classList);
+
 	useHead({
 		title: "E-handel, MarTech och digital marknadsföring | Rove | rove.se | Sverige",
 		meta: [
@@ -29,6 +31,8 @@
 	//const { data } = await useAsyncData("om-rove", () => queryContent("/pages").findOne());
 
 	function toggleNavigation() {
+		console.log("/toggleNavigation pre: " + document.body.classList);
 		document.body.classList.toggle("nav-open");
+		console.log("/toggleNavigation post: " + document.body.classList);
 	}
 </script>
