@@ -3,7 +3,6 @@
 		<main-navigation @toggle-navigation="toggleNavigation"></main-navigation>
 		<blog-post-body>
 			<template v-slot:author>Henrik Lundin</template>
-			<template v-slot:date>19 November 2020</template>
 			<template v-slot:title>Få fler leads med en effektiv Content-strategi</template>
 			<template v-slot:body>
 				<div class="tablet:w-1/2 float-right">
