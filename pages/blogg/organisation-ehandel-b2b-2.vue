@@ -3,10 +3,7 @@
 		<main-navigation @toggle-navigation="toggleNavigation"></main-navigation>
 		<blog-post-body>
 			<template v-slot:author>Henrik Lundin</template>
-			<template v-slot:date>3 Augusti 2020</template>
-			<template v-slot:title>
-				Vilken organisation behövs för en B2B e-handel? Del 2.
-			</template>
+			<template v-slot:title> Vilken organisation behövs för en B2B e-handel? Del 2. </template>
 			<template v-slot:body>
 				<p>
 					I den här bloggserien tittar vi på hur man bör organisera sig och vilka processer som behövs för en framgångsrik B2B e-handel. I
@@ -29,9 +26,7 @@
 					och lagras i ett egetdrivet centralt plocklager i Sverige alternativt levereras direkt till kund via dropshipping från grossist. Man
 					levererar till Sverige, Norge, Finland och Danmark.
 				</p>
-				<p>
-					Organisationen i ett direktsäljande B2B-företag med stark e-handel brukar se ut så här, där e-handelsteamet ligger under Commercial:
-				</p>
+				<p>Organisationen i ett direktsäljande B2B-företag med stark e-handel brukar se ut så här, där e-handelsteamet ligger under Commercial:</p>
 				<div class="mb-8">
 					<img src="/blogg/Organisation-ehandel-b2b-1.png" />
 				</div>

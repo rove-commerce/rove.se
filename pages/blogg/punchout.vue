@@ -3,22 +3,17 @@
 		<main-navigation @toggle-navigation="toggleNavigation"></main-navigation>
 		<blog-post-body>
 			<template v-slot:author>Henrik Lundin</template>
-			<template v-slot:date>1 December 2020</template>
 			<template v-slot:title>PunchOut e-handel</template>
 			<template v-slot:body>
 				<div class="tablet:w-1/2 float-right">
 					<img class="tablet:ml-4 mb-8" alt="PunchOut" src="/blogg/PunchOut-ehandel.jpg" />
 				</div>
-				<p class="preamble">
-					PunchOut e-handel - öppna en ny försäljningskanal till era kunder.
-				</p>
+				<p class="preamble">PunchOut e-handel - öppna en ny försäljningskanal till era kunder.</p>
 				<p class="preamble">
 					Vad är PunchOut e-handel? PunchOut är en försäljningskanal där era kunder kan köpa från er e-handel direkt från sina inköpssystem. En
 					inköpare kan använda sig av er e-handelswebbplats i sin ordinarie inköpsprocess.
 				</p>
-				<h3>
-					Hur funkar det?
-				</h3>
+				<h3>Hur funkar det?</h3>
 				<div class="mb-2 text-18">
 					Genom en integration från kundens inköpssystem kan kunden plocka ihop “en varukorg” av era produkter på er e-handel för att sedan återvända
 					till inköpssystemet och där slutföra ordern. Ett typiskt flöde:
@@ -36,9 +31,7 @@
 					kunden välja att importera alla era produkter till sitt inköpssystem, antingen i en stor batchkörning eller hämta in ert sortiment i
 					realtid. Då slipper ju inköparen gå utanför inköpssystemet - varför då köra PunchOut?
 				</p>
-				<div class="mb-2 text-18">
-					Vitsen är att ni kan sälja mer genom att:
-				</div>
+				<div class="mb-2 text-18">Vitsen är att ni kan sälja mer genom att:</div>
 				<ul>
 					<li>ge inköparen en bättre användarupplevelse (och skapa en bättre relation med inköparen),</li>
 					<li>lyfta fram era produkter på det sätt ni vill,</li>

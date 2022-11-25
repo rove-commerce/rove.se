@@ -3,7 +3,6 @@
 		<main-navigation @toggle-navigation="toggleNavigation"></main-navigation>
 		<blog-post-body>
 			<template v-slot:author>Henrik Lundin</template>
-			<template v-slot:date>16 Juni 2020</template>
 			<template v-slot:title>Sälja direkt och kanalkonflikter</template>
 			<template v-slot:body>
 				<div class="tablet:w-1/2 float-right">

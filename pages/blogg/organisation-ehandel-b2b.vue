@@ -3,10 +3,7 @@
 		<main-navigation @toggle-navigation="toggleNavigation"></main-navigation>
 		<blog-post-body>
 			<template v-slot:author>Henrik Lundin</template>
-			<template v-slot:date>13 Maj 2020</template>
-			<template v-slot:title>
-				Vilken organisation behövs för att driva en B2B e-handel? Del 1.
-			</template>
+			<template v-slot:title> Vilken organisation behövs för att driva en B2B e-handel? Del 1. </template>
 			<template v-slot:body>
 				<p>
 					Först och främst, att införa en e-handelskanal involverar många delar av företaget, det är inte en egen organisatorisk silo. Tvärtom vill
@@ -36,9 +33,7 @@
 					<li>Digitala servicefunktioner</li>
 					<li>Vidareutveckling av sin e-handel</li>
 				</ol>
-				<p>
-					Och så finns det två hinkar till som blir allt viktigare: bedrägerihantering och omvärldsbevakning.
-				</p>
+				<p>Och så finns det två hinkar till som blir allt viktigare: bedrägerihantering och omvärldsbevakning.</p>
 				<h3>1. Skapa kännedom om varumärket</h3>
 				<p>
 					Att arbeta med varumärkeskännedom är inte specifikt för e-handel, jag vill ändå lyfta fram det eftersom det är så viktigt, i synnerhet inom
@@ -77,9 +72,7 @@
 						produktinformation överallt.
 					</li>
 				</ul>
-				<p>
-					Jag kommer fokusera på PIM i en senare bloggpost men kortfattat brukar man beskriva PIM-processen i tre steg:
-				</p>
+				<p>Jag kommer fokusera på PIM i en senare bloggpost men kortfattat brukar man beskriva PIM-processen i tre steg:</p>
 				<ol>
 					<li>Berika (engelska: “enrich”)</li>
 					<li>Planera (engelska: “plan”)</li>
@@ -118,9 +111,7 @@
 					ett marknads- eller e-handelsteam arbetar med är:
 				</p>
 				<ul>
-					<li>
-						“Lead generation”: digital leadsgenerering är huvudprocessen som syftar till hur man genererar leads genom digitala verktyg.
-					</li>
+					<li>“Lead generation”: digital leadsgenerering är huvudprocessen som syftar till hur man genererar leads genom digitala verktyg.</li>
 					<li>
 						“Inbound Marketing”: Inbound Marketing syftar till att attrahera kunden att komma till dig, på kundens villkor, när den är redo i sin
 						kundresa. Ofta görs det genom relevant innehåll som ger kunden värde genom Content Marketing, eller personaliserade annonser som kunden
@@ -143,20 +134,14 @@
 					Att konvertera betyder i e-handelssammanhang att få ett lead till att köpa, ett avslut. Beroende på hur man säljer kan det vara en enkel rak
 					säljtratt där kunder kan lägga saker i kundvagnen och köpa direkt, eller långa säljcykler med fysiska möten, offerter osv.
 				</p>
-				<p>
-					Arbetar man med den enklare formen, besök på ens e-handel som ska konverteras till order, brukar man arbeta med följande uppgifter:
-				</p>
+				<p>Arbetar man med den enklare formen, besök på ens e-handel som ska konverteras till order, brukar man arbeta med följande uppgifter:</p>
 				<ul>
 					<li>
 						Testa, mäta och analysera: att testa, mäta och förstå hur man presterar och var man tappar i konvertering är A och O inom e-handel. Att
 						testa och mäta konverteringsgraden ligger i blodet hos alla duktiga e-handlare. Utan att testa och mäta kan man inte veta säkert.
 					</li>
-					<li>
-						Kampanjer: kampanjer för att öka konverteringsgraden.
-					</li>
-					<li>
-						Öka snittordervärdet: man arbetar hela tiden med metoder för att öka ordervärdet.
-					</li>
+					<li>Kampanjer: kampanjer för att öka konverteringsgraden.</li>
+					<li>Öka snittordervärdet: man arbetar hela tiden med metoder för att öka ordervärdet.</li>
 					<li>
 						De viktigaste användarfallen: man arbetar kontinuerligt med att optimera ens viktigaste användarfall, hur besökare kommer in till
 						webbplatsen, landningssidor, sök, navigation, hur man vill betala, leveransalternativ osv.
@@ -166,9 +151,7 @@
 						eller delar med sig av sina kontaktuppgifter i utbyte mot något värdefullt. Då är det viktigt att ha en tydlig väg på webbplatsen med
 						bra Call to Actions så att kunden alltid vägleds vidare fram till kontakt.
 					</p>
-					<h3>
-						5. Återaktivering
-					</h3>
+					<h3>5. Återaktivering</h3>
 					<p>
 						Att arbeta med att få återkommande kunder, återaktivering (“retention” på engelska), är en viktig process. Det är mycket billigare att
 						få en befintlig kund att köpa än att rekrytera nya kunder. För e-handlare är andel återkommande kunder och dess köpbeteende viktiga
@@ -183,9 +166,7 @@
 						I förlängningen vill man att återkommande kunder, lojala kunder, också ska bli ens ambassadörer. Även om lojalitetsprogram inte är lika
 						vanliga inom B2B är målet detsamma, kunden ska bli så nöjd att den rekryterar nya kunder åt dig.
 					</p>
-					<h3>
-						6. Kundtjänst
-					</h3>
+					<h3>6. Kundtjänst</h3>
 					<p>
 						En modern kundtjänst arbetar i flera kanaler och ingår vanligtvis inte i ett e-handelsteam. Däremot kan kundtjänst använda sig av
 						digitala verktyg såsom webbformulär och chatt och om det är önskvärt styra kommunikationen med kunder så att den blir mer effektiv och
@@ -195,16 +176,12 @@
 						Det man bör ha i åtanke för B2B-handel är att kundtjänst i många fall också lägger order, de är “säljare”. Vissa kunder vill samla
 						information online men i slutändan ändå prata med en person, antingen sälj eller kundtjänst.
 					</p>
-					<h3>
-						7. Fulfillment, leverans, lager, returer & reklamationer
-					</h3>
+					<h3>7. Fulfillment, leverans, lager, returer & reklamationer</h3>
 					<p>
 						Fulfillment (eller “Order Fulfillment”) är processen för att expediera en order, vanligtvis menar man lagerplock, packa varor, leverans,
 						installation och eventuellt uppföljning efter leverans.
 					</p>
-					<p>
-						Arbetar man med tullager brukar hanterar Fulfillment-teamet även hantera administration kring detta.
-					</p>
+					<p>Arbetar man med tullager brukar hanterar Fulfillment-teamet även hantera administration kring detta.</p>
 					<p>
 						Om man inte vill ha eget lager kan man använda en tredjepartslogistik-lösning (“3PL”) som hanterar hela Fulfillment-processen och
 						returhantering.
@@ -214,9 +191,7 @@
 						till en s.k. “returstation”. I returstationen verifierar man att returen är giltig och återför produkterna till lagret. 3PL-lager brukar
 						vanligtvis även hantera returer.
 					</p>
-					<h3>
-						8. Prissättning och kampanjer
-					</h3>
+					<h3>8. Prissättning och kampanjer</h3>
 					<p>
 						Ett område som många förbiser när e-handeln tar fart är att man behöver jobba mer och “snabbare” med priser och kampanjer. Man är van
 						att arbeta löpande med att förhandla “manuellt” om rabatter och avtal, men i övrigt är priser och kampanjer statiska.
@@ -235,18 +210,14 @@
 						Mer dynamisk prissättning ställer ofta nya krav på affärssystemet och ger inledningsvis högre belastning på kundtjänst. Se därför
 						dynamisk prissättning som en resa i flera steg, det är svårt att gå hela vägen i en vända.
 					</p>
-					<h3>
-						9. Digitala servicefunktioner
-					</h3>
+					<h3>9. Digitala servicefunktioner</h3>
 					<p>
 						Digitala servicefunktioner och andra tjänster är viktiga incitament för kunder och återförsäljare att börja köpa digitalt istället för
 						att ringa in sina order. Ofta har man en portal kopplad till e-handeln med digitala tjänster som exempelvis produktkonfigurator, följa
 						upp status på order, skapa offert till slutkund mm. Undersökningar visar att bra digitala servicefunktioner är mycket viktiga för att
 						öka försäljningen mot befintliga kunder och öka kundnöjdheten.
 					</p>
-					<h3>
-						10. Vidareutveckling av sin e-handel
-					</h3>
+					<h3>10. Vidareutveckling av sin e-handel</h3>
 					<p>
 						Att införa e-handel är inget engångsprojekt, faktum är att man får bäst resultat om man arbetar i flera små iterationer istället för
 						stora projekt. Så är det, ni kommer alltid att jobba med vidareutveckling av er e-handel, både gällande innehåll och teknik. Man pratar
@@ -256,9 +227,7 @@
 						Processen för vidareutveckling ägs av e-handelsteamet, de är systemägare/produktägare till e-handelsplattformen. Ibland arbetar man med
 						egna utvecklingsteam inom e-handelsteamet, eller så har man en extern leverantör eller så är det IT-organisationen som driver projekten.
 					</p>
-					<h3>
-						11. Omvärldsbevakning
-					</h3>
+					<h3>11. Omvärldsbevakning</h3>
 					<p>
 						Digital handel utvecklas i en oerhörd takt, trender som vi ser på horisonten kan snabbt bli verklighet. Det kan handla om
 						marknadsplatser för B2B-handel som öppnar upp helt nya möjligheter att gå in på nya marknader, nya leveransalternativ eller om
@@ -273,18 +242,14 @@
 						Därför behöver ni ha en viss kontinuerlig omvärldsbevakning, den behöver inte vara omfattande, att samla kunskap några timmar i månaden
 						räcker. Både marknads- och e-handelsteamet bör arbeta med omvärldsbevakning.
 					</p>
-					<h3>
-						12. Bedrägerier
-					</h3>
+					<h3>12. Bedrägerier</h3>
 					<p>
 						I vissa verksamheter behöver man arbeta med bedrägerier (engelska: “Fraud”). Bedrägeriarbete handlar dels om att arbeta förebyggande med
 						val av leverantörer och funktioner i e-handelsplattformen, dels om dagligt arbete med rutiner för, och manuellt arbete med, misstänkta
 						(s.k. “flaggade”) order. Arbetet med misstänkta order hanteras vanligtvis av ekonomifunktionen eftersom det ligger nära andra
 						ekonomiuppgifter.
 					</p>
-					<h3>
-						Vem gör vad?
-					</h3>
+					<h3>Vem gör vad?</h3>
 					<p>
 						Nu när vi gått igenom de hinkar och processer vi behöver för att driva en e-handel kan det lätt kännas övermäktigt, vem gör egentligen
 						vad? I <nuxt-link to="/blogg/organisation-ehandel-b2b-2/"> del 2</nuxt-link> går vi vidare och konkretiserar genom att rita upp 3 olika

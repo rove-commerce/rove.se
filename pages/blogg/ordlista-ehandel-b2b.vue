@@ -3,10 +3,7 @@
 		<main-navigation @toggle-navigation="toggleNavigation"></main-navigation>
 		<blog-post-body>
 			<template v-slot:author>Henrik Lundin</template>
-			<template v-slot:date>15 April 2020</template>
-			<template v-slot:title>
-				Ordlista för e-handel B2B
-			</template>
+			<template v-slot:title> Ordlista för e-handel B2B </template>
 			<template v-slot:body>
 				<p>
 					Nu kör vi igång med vår e-handelsskola B2B e-handel för nybörjare! Innan vi hoppar in och börjar prata om hur vi attraherar, konverterar och

@@ -3,7 +3,6 @@
         <main-navigation @toggle-navigation="toggleNavigation"></main-navigation>
         <blog-post-body>
             <template v-slot:author>Henrik Lundin</template>
-            <template v-slot:date>20 Mars 2020</template>
             <template v-slot:title>
                 Trender, tips och fallgropar för digital handel B2B
             </template>
