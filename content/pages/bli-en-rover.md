@@ -23,4 +23,4 @@ Och för att verkligen lyckas behöver vi ta hand om varandra, vi ska må bra dy
 
 Vi vill skapa ett starkt incitament till att lyckas, utöver fast lön arbetar vi med en generös vinstdelningsmodell utifrån lagets resultat.
 
-Vill du bli en Rover? Skicka din ansökan till jobb[at]rove.se eller använd formuläret nedan.
+Vill du bli en Rover? Skicka din ansökan till jobb _at_ rove.se.
