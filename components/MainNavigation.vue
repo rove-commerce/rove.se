@@ -17,7 +17,7 @@
 						<NuxtLink to="/om-rove/" class="hover:underline">Om Rove</NuxtLink>
 					</li>
 					<li class="ml-6">
-						<NuxtLink to="/bli-en-rover/" class="hover:underline">Jobba med oss</NuxtLink>
+						<NuxtLink to="/bli-en-rover/" class="hover:underline">Jobb</NuxtLink>
 					</li>
 				</ul>
 			</nav>

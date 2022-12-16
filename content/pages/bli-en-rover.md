@@ -1,5 +1,5 @@
 ---
-title: Jobba
+title: Jobb
 description: Jobb - e-handel, PIM, MarTech, digital marknadsföring
 ---
 
