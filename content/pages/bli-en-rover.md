@@ -1,6 +1,6 @@
 ---
-title: Jobba med oss
-description: Bli en Rover - e-handel, PIM, MarTech, digital marknadsföring
+title: Jobba
+description: Jobb - e-handel, PIM, MarTech, digital marknadsföring
 ---
 
 ## Vill du bli en Rover?
