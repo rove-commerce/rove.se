@@ -13,6 +13,20 @@
 						<p>Rove Methods är utvecklade metoder med tydliga mål och resultat.</p>
 					</div>
 					<div class="laptop:px-4 py-1 border-t laptop:border-l laptop:border-t-0 border-white mb-12">
+						<p class="text-white text-32 mb-4 font-semibold">Implementation e-handelsplattform | PIM | CMS</p>
+						<p class="text-white text-16 mb-2">
+							Vi implementerar er e-handelslösning utifrån era affärsmål - design, systemutveckling, integrationer, utrullning, utbildning, test &
+							kvalitetssäkring, interna processer och organisation. Vi arbetar främst med Litiums Commerce plattform (<nobr>e-handel</nobr>
+							, PIM och CMS) och dess paketering Litium Accelerator samt med fristående headless-lösningar för e-handel och CMS.
+						</p>
+					</div>
+					<div class="laptop:px-4 py-1 border-t laptop:border-l laptop:border-t-0 border-white mb-12">
+						<p class="text-white text-32 mb-4 font-semibold">Införa HubSpot</p>
+						<p class="text-white text-16 mb-2">
+							Införande, konfiguration och sätta interna processer för lead generation och digital marknadsföring med HubSpot.
+						</p>
+					</div>
+					<div class="laptop:px-4 py-1 border-t laptop:border-l laptop:border-t-0 border-white mb-12">
 						<p class="text-white text-32 mb-4 font-semibold">Kundresan</p>
 						<p class="text-white text-16 mb-2">
 							Med Rove Kundresan kartlägger vi hur era kunder vill agera under sin kundresa eller köpresa, hur de tar köpbeslut och hur ni bygger
@@ -73,9 +87,7 @@
 					</div>
 					<div class="laptop:px-4 py-1 border-t laptop:border-l laptop:border-t-0 border-blue">
 						<p class="text-blue text-32 mb-4 font-semibold">Rådgivning</p>
-						<p class="text-black text-16 mb-2">
-							Strategisk och hands-on rådgivning för e-handel, PIM och digital marknadsföring.
-						</p>
+						<p class="text-black text-16 mb-2">Strategisk och hands-on rådgivning för e-handel, PIM och digital marknadsföring.</p>
 					</div>
 				</div>
 			</div>
