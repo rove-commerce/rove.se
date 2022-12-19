@@ -11,8 +11,8 @@
 				</div>
 			</div>
 		</div>
-		<!--<contact-form name="bli-en-rover-form">Vill du bli en Rover?</contact-form>
-		<you-may-also-like></you-may-also-like>-->
+		<contact-form name="bli-en-rover-form">Vill du bli en Rover?</contact-form>
+		<!--<you-may-also-like></you-may-also-like>-->
 		<footer-navigation></footer-navigation>
 	</div>
 </template>

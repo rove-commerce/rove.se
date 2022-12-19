@@ -23,8 +23,6 @@
 	});
 
 	function toggleNavigation() {
-		console.log("/toggleNavigation pre: " + document.body.classList);
 		document.body.classList.toggle("nav-open");
-		console.log("/toggleNavigation post: " + document.body.classList);
 	}
 </script>
