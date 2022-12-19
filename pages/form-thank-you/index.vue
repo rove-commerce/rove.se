@@ -4,9 +4,7 @@
 		<page-header>Tack!</page-header>
 		<div class="wrapper">
 			<div class="inner-wrapper mt-8">
-				<p>
-					Tack för ditt svar, vi tittar på det så snart vi har möjlighet.
-				</p>
+				<p>Tack för ditt svar, vi tittar på det så snart vi har möjlighet!</p>
 			</div>
 		</div>
 		<you-may-also-like></you-may-also-like>

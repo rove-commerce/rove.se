@@ -4,14 +4,8 @@
 		<main-navigation @toggle-navigation="toggleNavigation"></main-navigation>
 		<jumbotron></jumbotron>
 		<blog-summary></blog-summary>
-		<footer-navigation></footer-navigation>
-		<!--
-			<main-navigation @toggle-navigation="toggleNavigation"></main-navigation>
-		<jumbotron></jumbotron>
-		<blog-summary></blog-summary>
 		<contact-form name="startpage-form"></contact-form>
-		<testimonials></testimonials>
-		<footer-navigation></footer-navigation>-->
+		<footer-navigation></footer-navigation>
 	</div>
 </template>
 
@@ -27,8 +21,6 @@
 			},
 		],
 	});
-
-	//const { data } = await useAsyncData("om-rove", () => queryContent("/pages").findOne());
 
 	function toggleNavigation() {
 		console.log("/toggleNavigation pre: " + document.body.classList);
