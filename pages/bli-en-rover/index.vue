@@ -11,7 +11,7 @@
 				</div>
 			</div>
 		</div>
-		<contact-form name="bli-en-rover-form">Vill du bli en Rover?</contact-form>
+		<contact-form name="bli-en-rover-form" company="false">Vill du bli en Rover?</contact-form>
 		<!--<you-may-also-like></you-may-also-like>-->
 		<footer-navigation></footer-navigation>
 	</div>

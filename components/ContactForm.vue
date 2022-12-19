@@ -13,7 +13,7 @@
 					<form v-bind:name="name" method="POST" netlify data-netlify="true" data-netlify-honeypot="bot-field" action="/form-thank-you/">
 						<input type="hidden" name="form-name" v-bind:value="name" />
 						<input name="Namn" class="text-input mb-3" type="text" placeholder="Namn*" />
-						<input name="Företag" class="text-input mb-3" type="text" placeholder="Företag" />
+						<input v-if="company === true" name="Företag" class="text-input mb-3" type="text" placeholder="Företag" />
 						<input name="Epost" class="text-input mb-3" type="email" placeholder="E-post*" />
 						<textarea name="Meddelande" class="textarea mb-5" placeholder="Meddelande"></textarea>
 						<button type="submit" class="btn-blue self-center tablet-lg:self-start">Skicka</button>
@@ -29,6 +29,9 @@
 		props: {
 			name: {
 				default: "contact",
+			},
+			company: {
+				default: true,
 			},
 		},
 	};
