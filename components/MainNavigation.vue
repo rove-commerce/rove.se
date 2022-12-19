@@ -50,7 +50,7 @@
 							<NuxtLink to="/om-rove/">Om Rove</NuxtLink>
 						</li>
 						<li class="mt-10">
-							<NuxtLink to="/bli-en-rover/">Bli en Rover</NuxtLink>
+							<NuxtLink to="/bli-en-rover/">Jobb</NuxtLink>
 						</li>
 					</ul>
 				</div>
