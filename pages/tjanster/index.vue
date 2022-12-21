@@ -43,7 +43,7 @@
 		<div class="bg-orange">
 			<div class="wrapper py-16">
 				<div class="inner-wrapper">
-					<div class="w-2/6 mb-8">
+					<div class="w-3/5 laptop:w-2/6 mb-8">
 						<img src="/Rove-RGB-Logotyp_Build-Blue.png" />
 					</div>
 					<div class="text-black text-24 mb-8">
