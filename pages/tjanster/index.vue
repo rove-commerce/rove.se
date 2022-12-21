@@ -13,20 +13,6 @@
 						<p>Rove Methods är utvecklade metoder med tydliga mål och resultat.</p>
 					</div>
 					<div class="laptop:px-4 py-1 border-t laptop:border-l laptop:border-t-0 border-white mb-12">
-						<p class="text-white text-32 mb-4 font-semibold">Implementation e-handelsplattform | PIM | CMS</p>
-						<p class="text-white text-16 mb-2">
-							Vi implementerar er e-handelslösning utifrån era affärsmål - design, systemutveckling, integrationer, utrullning, utbildning, test &
-							kvalitetssäkring, interna processer och organisation. Vi arbetar främst med Litiums Commerce plattform (<nobr>e-handel</nobr>
-							, PIM och CMS) och dess paketering Litium Accelerator samt med fristående headless-lösningar för e-handel och CMS.
-						</p>
-					</div>
-					<div class="laptop:px-4 py-1 border-t laptop:border-l laptop:border-t-0 border-white mb-12">
-						<p class="text-white text-32 mb-4 font-semibold">Införa HubSpot</p>
-						<p class="text-white text-16 mb-2">
-							Införande, konfiguration och sätta interna processer för lead generation och digital marknadsföring med HubSpot.
-						</p>
-					</div>
-					<div class="laptop:px-4 py-1 border-t laptop:border-l laptop:border-t-0 border-white mb-12">
 						<p class="text-white text-32 mb-4 font-semibold">Kundresan</p>
 						<p class="text-white text-16 mb-2">
 							Med Rove Kundresan kartlägger vi hur era kunder vill agera under sin kundresa eller köpresa, hur de tar köpbeslut och hur ni bygger
@@ -42,13 +28,6 @@
 						</p>
 						<read-link to="/tjanster/upphandling/">Läs mer</read-link>
 					</div>
-					<div class="laptop:px-4 py-1 border-t laptop:border-l laptop:border-t-0 border-white mb-12">
-						<p class="text-white text-32 mb-4 font-semibold">Business Case</p>
-						<p class="text-white text-16 mb-2">
-							Med Rove Business Case tar vi fram ett beslutsunderlag för ett införandeprojekt av process för digital marknadsföring, e-handel
-							eller PIM.
-						</p>
-					</div>
 					<div class="laptop:px-4 py-1 border-t laptop:border-l laptop:border-t-0 border-white">
 						<p class="text-white text-32 mb-4 font-semibold">Förstudie</p>
 						<p class="text-white text-16 mb-2">
@@ -60,8 +39,59 @@
 			</div>
 		</div>
 
-		<!-- Rove Advisory -->
+		<!-- Rove Build -->
 		<div class="bg-orange">
+			<div class="wrapper py-16">
+				<div class="inner-wrapper">
+					<div class="w-2/6 mb-8">
+						<img src="/Rove-RGB-Logotyp_Build-Blue.png" />
+					</div>
+					<div class="text-black text-24 mb-8">
+						<p>
+							Rove Build är implementationsprojekt för nyutveckling och förvaltning enligt vår iterativa projektmodell med fokus smidigt införande
+							och låg total ägandekostnad.
+						</p>
+					</div>
+					<div class="laptop:px-4 py-1 border-t laptop:border-l laptop:border-t-0 border-blue mb-12">
+						<p class="text-blue text-32 mb-4 font-semibold">Litium e-handel | PIM | CMS</p>
+						<p class="text-black text-16 mb-2">
+							Vi implementerar er e-handelslösning utifrån era affärsmål - design, systemutveckling, integrationer, utrullning, utbildning, test &
+							kvalitetssäkring, interna processer och organisation. Vi arbetar med Litium Commerce Cloud (<nobr>e-handel</nobr>
+							, PIM och CMS) och dess paketering Litium Accelerator.
+						</p>
+					</div>
+					<div class="laptop:px-4 py-1 border-t laptop:border-l laptop:border-t-0 border-blue mb-12">
+						<p class="text-blue text-32 mb-4 font-semibold">Litium Apps | Add-ons</p>
+						<p class="text-black text-16 mb-2">
+							Vi utvecklar och förvaltar Apps och Add-ons till Litium Commerce Cloud, exempelvis betallösningar och integrationer till andra
+							system.
+						</p>
+					</div>
+					<div class="laptop:px-4 py-1 border-t laptop:border-l laptop:border-t-0 border-blue mb-12">
+						<p class="text-blue text-32 mb-4 font-semibold">Headless e-handel</p>
+						<p class="text-black text-16 mb-2">
+							Implementation av frontend och backend till headless e-handel utifrån era affärsmål - hela vägen från UX-design till API-strategi,
+							systemutveckling, integrationer, test & kvalitetssäkring, interna processer till utrullning och produktionssättning.
+						</p>
+					</div>
+					<div class="laptop:px-4 py-1 border-t laptop:border-l laptop:border-t-0 border-blue mb-12">
+						<p class="text-blue text-32 mb-4 font-semibold">Headless CMS</p>
+						<p class="text-black text-16 mb-2">
+							Implementation av headless CMS utifrån er kanalstrategi och marknadsprocess. Vi arbetar bl.a. med Contentful och Storyblok.
+						</p>
+					</div>
+					<div class="laptop:px-4 py-1 border-t laptop:border-l laptop:border-t-0 border-blue mb-12">
+						<p class="text-blue text-32 mb-4 font-semibold">Införa HubSpot</p>
+						<p class="text-black text-16 mb-2">
+							Införande, konfiguration och sätta interna processer för lead generation och digital marknadsföring med HubSpot.
+						</p>
+					</div>
+				</div>
+			</div>
+		</div>
+
+		<!-- Rove Advisory -->
+		<div class="bg-white">
 			<div class="wrapper py-16">
 				<div class="inner-wrapper">
 					<div class="w-3/4 laptop:w-2/5 mb-8">
@@ -93,7 +123,7 @@
 			</div>
 		</div>
 
-		<!-- Rove Rove Interim Solutions -->
+		<!-- Rove Rove Interim Solutions
 		<div class="bg-white">
 			<div class="wrapper py-16">
 				<div class="inner-wrapper">
@@ -126,7 +156,7 @@
 					</div>
 				</div>
 			</div>
-		</div>
+		</div> -->
 
 		<!-- Contact Form -->
 		<contact-form name="tjanster-form"></contact-form>
