@@ -48,8 +48,8 @@
 					</div>
 					<div class="text-black text-24 mb-8">
 						<p>
-							Rove Build är implementationsprojekt för nyutveckling och förvaltning enligt vår iterativa projektmodell med fokus smidigt införande
-							och låg total ägandekostnad.
+							Rove Build är implementationsprojekt för nyutveckling och vidareutveckling enligt vår iterativa projektmodell med fokus smidigt
+							införande och låg total ägandekostnad.
 						</p>
 					</div>
 					<div class="laptop:px-4 py-1 border-t laptop:border-l laptop:border-t-0 border-blue mb-12">
